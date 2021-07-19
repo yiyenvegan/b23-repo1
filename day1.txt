@@ -1,1 +1,7 @@
 b23 is learning git.
+
+we just did.
+
+
+
+git keep tracks of changes every time.
